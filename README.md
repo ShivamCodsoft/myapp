@@ -19,6 +19,9 @@ pages are in lib/pages folder
 db_helper contain database and functions
 
 Steps to start:
+
 run 'flutter pub get' to install dependencies
+
 open android studio and start device using device manger
+
 run code using flutter run
